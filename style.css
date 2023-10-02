@@ -152,5 +152,11 @@ footer p{
     #projetos, #contato{
         display: block;
     }
+
+    .vetor, .vetor1, .vetor2{
+        display: block;
+        justify-content: center;
+        width: 33%;
+    }
     
 }
